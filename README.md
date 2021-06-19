@@ -1,6 +1,6 @@
 # Squirreling-Ball (a.k.a. Sqrrlz)
 
-![Gameplay](/docs/gameplay.PNG)
+![Gameplay](/docs/gameplay.png)
 
 The world's first ~~first-person~~ third-person bowler, where you play as the bowling ball.
 As you navigate through each wacky level, you must hunt down all the pins in as little time as possible.
